@@ -1,0 +1,5 @@
+https://www.mongodb.com/basics/create-database <- 몽고디비 시작하기
+
+$> mongo   -- mongo cmd
+> show dbs   -- 몽고디비 데이터베이스를 봄
+> use [database_name]  -- database_name 의 데이터베이스가 없다면 만듦.
